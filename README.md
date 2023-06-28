@@ -1,6 +1,6 @@
 ## Donut Animation
 
-![Donut Animation](C:\Users\scrin\Videos\Captures\Donut.gif)
+![Donut](https://github.com/HatoryHanzo182/Animated_Donut/assets/55142468/ded6d7f9-b744-4233-aa25-6218d6c3dfca)
 
 This code implements a spinning donut pseudo animation and displays it in the console using ASCII characters. The donut animation concept and basic mathematical principles are based on the work of Andy Sloan, which can be found at [a1k0n.net](https://www.a1k0n.net/2011/07/20/donut-math). .html).
 
